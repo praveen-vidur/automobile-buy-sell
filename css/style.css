@@ -161,7 +161,7 @@ h6,
 }
 
 .rent-item {
-    padding: 30px;
+    padding: 0px;
     text-align: center;
     background: var(--light);
     transition: .5s;
